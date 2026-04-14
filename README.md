@@ -1,9 +1,6 @@
-- Olá, sou o Arthur Lopes;
-- Quero aprender desenvolvimento de jogos e SFX, estou focando em Unity, Godot e Wwise pelo interop entre programas;
-- O foco final é me especializar como Sound Tech, mas quero aprender desenvolvimento de jogos para ter projetos onde meus sons seriam aplicáveis;
-- Contato no e-mail artglopes@gmail.com;
-- Fluent in english. También hablo un poco de español. HMU!
-<!---
-ArtLopes/ArtLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I'm Arthur from LPL;
+- Current stack: Godot (GDScript), Unity (C#), Wwise and FL Studio;
+- I'm currently dedicated to game development and SFX and my current focuses are Unity, Godot and Wwise, as both engines support interop with Wwise;
+- My end goal is specializing in Sound Tech while building the projects to apply it;
+- You can contact me at artglopes@gmail.com;
+- Native portuguese, fluent english and proficient spanish. HMU!
