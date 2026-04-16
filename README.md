@@ -1,5 +1,5 @@
 - Hi, I'm Arthur from LPL;
-- Current stack: Godot (GDScript), Aseprite (2D modelling), Blockbench (3D modelling) and FL Studio 24 (SFX);
+- Current stack: Godot (GDScript), Aseprite (Pixel Art), Blockbench (3D modelling) and FL Studio 24 (SFX);
 - I'm currently commited to learning game development and my current focus is Godot, but I am studying other necessary tools in tandem;
 - My end goal is specializing in retro-looking games while building a solid foundation as a developer and artist;
 - You can contact me at artglopes@gmail.com;
