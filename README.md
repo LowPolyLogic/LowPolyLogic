@@ -1,6 +1,6 @@
 - Hi, I'm Arthur from LPL;
 - Current stack: Godot (GDScript), Aseprite (Pixel Art), Blockbench (3D modelling) and FL Studio 24 (SFX);
-- I'm currently commited to learning game development and my current focus is Godot, but I am studying other necessary tools in tandem;
-- My end goal is specializing in retro-looking games while building a solid foundation as a developer and artist;
+- I'm currently commited to learning game development and design. My current focus is Godot, but I am studying other necessary tools in tandem;
+- My end goal is specializing in retro-looking games and technical game design while building a solid foundation as both a developer and a designer;
 - You can contact me at artglopes@gmail.com;
 - Native portuguese, fluent english and proficient spanish. HMU!
