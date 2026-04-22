@@ -1,4 +1,4 @@
-- Hi, I'm Arthur from LPL;
+- Hi, I'm Arthur from LPL (Lopes' Programming Logic;
 - Current stack: Unreal Engine (Game Development), Aseprite (Pixel Art), Blender (3D modelling) and FL Studio 24 (SFX);
 - I'm currently commited to learning game development and design. My current focus is Blueprints for Unreal, but I am studying other necessary tools in tandem;
 - My end goal is specializing in retro-looking games and technical game design while building a solid foundation as both a developer and a designer;
